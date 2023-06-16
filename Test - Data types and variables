@@ -1,0 +1,69 @@
+1. What is the data type of the variable age in the following code snippet?
+age = 25
+
+a) int 
+b) str
+c) bool
+d) float
+
+2. Which of the following is a numeric data type in Python?
+a) list
+b) tuple
+c) int 
+d) dict
+
+3. What is the result of the following expression?
+print(5 // 2)
+a) 2
+b) 2.5 
+c) 2.0
+d) 2.2
+
+4. Which data type is used to store a sequence of characters in Python?
+a) str 
+b) int
+c) bool
+d) float
+
+6. Which data type is used to store multiple values in an ordered and changeable manner?
+a) list 
+b) set
+c) tuple
+d) dict
+
+7. What does the len() function return when called on a string?
+a) the number of characters in the string 
+b) True
+c) False
+d) the string itself
+
+8. Which of the following is an example of a floating-point number?
+a) 42
+b) 3.14 
+c) "Hello"
+d) True
+
+9. Which data type is used to represent a condition with two possible values: True or False?
+a) str
+b) bool 
+c) int
+d) float
+
+10. How do you assign a value to a variable in Python?
+a) using the var keyword
+b) using the value keyword
+c) using the = operator 
+d) using the assign keyword
+
+
+Correct answers from the test:
+
+1 - a)
+2 - c)
+3 - a)
+4 - a)
+6 - a)
+7 - a)
+8 - b)
+9 - b)
+10 - c)
