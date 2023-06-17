@@ -16,6 +16,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Functions](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/functions)
 
+➡ [List advanced](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/list_advanced)
+
 ## Theory tests
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Basic%20syntax%2C%20conditional%20statements%20and%20loops)  
 
