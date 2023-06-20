@@ -29,7 +29,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [TEST - Lists Advanced](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20List%20advanced)
 
-➡ [TEST - Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023) 
+➡ [TEST - Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Objects%20and%20Classes)
  
 ## Additional resources
 
