@@ -18,6 +18,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [List advanced](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/list_advanced)
 
+➡ [Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
+
 ➡ [Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
 
 ## Theory tests
