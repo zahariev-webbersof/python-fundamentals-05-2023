@@ -1,0 +1,77 @@
+1. What is the correct way to create an empty list?
+   a) `list = []`
+   b) `list = {}`
+   c) `list = ()`
+   d) `list = ''`
+
+2. Which method is used to add an element to the end of a list?
+   a) `append()`
+   b) `extend()`
+   c) `insert()`
+   d) `remove()`
+
+3. How do you access the third element of a list?
+   a) `list[0]`
+   b) `list[1]`
+   c) `list[2]`
+   d) `list[3]`
+
+4. What is the result of the following code?
+   ```
+   my_list = [1, 2, 3]
+   my_list.remove(2)
+   print(my_list)
+   ```
+   a) `[1, 2, 3]`
+   b) `[1, 3]`
+   c) `[2, 3]`
+   d) `Error`
+
+5. How can you find the number of elements in a list?
+   a) `list.length()`
+   b) `list.count()`
+   c) `list.size()`
+   d) `len(list)`
+
+6. What method is used to sort a list in ascending order?
+   a) `list.sort()`
+   b) `list.reverse()`
+   c) `list.append()`
+   d) `list.remove()`
+
+7. What happens when you use the `+` operator to concatenate two lists?
+   a) The two lists are combined into a single list.
+   b) The `+` operator cannot be used with lists.
+   c) An error is thrown.
+   d) The lists remain unchanged.
+
+8. How do you remove all elements from a list?
+   a) `list.clear()`
+   b) `list.remove_all()`
+   c) `list.delete_all()`
+   d) `list.pop()`
+
+9. Which method is used to obtain the index of an element in a list?
+   a) `index()`
+   b) `find()`
+   c) `search()`
+   d) `locate()`
+
+10. How do you check if a value exists in a list?
+    a) `value in list`
+    b) `list.contains(value)`
+    c) `list.exists(value)`
+    d) `list.include(value)`
+
+
+Correct answers:
+1.  a) list = []
+2.  a) append()
+3.  c) list[2]
+4.  b) [1, 3]
+5.  d) len(list)
+6.  a) list.sort()
+7.  a) The two lists are combined into a single list
+8.  a) list.clear()
+9.  a) index()
+10. a) value in list
