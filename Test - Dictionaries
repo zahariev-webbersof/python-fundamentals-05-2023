@@ -13,7 +13,7 @@ b) "banana"
 c) {"banana": 2}
 d) KeyError
 
-3. Question 3: Which method is used to add or update a key-value pair in a dictionary?
+3. Which method is used to add or update a key-value pair in a dictionary?
 a) super()
 b) update()
 c) insert()
