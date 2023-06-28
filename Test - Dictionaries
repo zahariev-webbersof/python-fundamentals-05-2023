@@ -1,0 +1,84 @@
+1. How do you create an empty dictionary in Python?
+a) empty_dict = {}
+b) empty_dict = dict()
+c) empty_dict = []
+d) empty_dict = set()
+
+2. What is the output of the following code?
+my_dict = {"apple": 3, "banana": 2, "orange": 5}
+print(my_dict["banana"])
+
+a) 2
+b) "banana"
+c) {"banana": 2}
+d) KeyError
+
+3. Question 3: Which method is used to add or update a key-value pair in a dictionary?
+a) super()
+b) update()
+c) insert()
+d) append()
+
+4. What does the len() function return when called on a dictionary?
+a) The number of key-value pairs in the dictionary
+b) The number of keys in the dictionary
+c) The number of values in the dictionary
+d) The length of the longest key in the dictionary
+
+5. Which of the following methods removes a key-value pair from a dictionary?
+a) delete()
+b) remove()
+c) pop()
+d) discard()
+
+6. What happens when you try to access a key that doesn't exist in a dictionary?
+a) It raises a KeyError
+b) It returns None
+c) It raises an IndexError
+d) It returns an empty string
+
+7. How do you check if a key exists in a dictionary?
+a) key_exists()
+b) contains_key()
+c) in operator
+d) has_key()
+
+8. What is the result of the following code?
+
+my_dict = {"apple": 3, "banana": 2, "orange": 5}
+del my_dict["banana"]
+print(len(my_dict))
+
+a) 2
+b) 3
+c) 1
+d) KeyError
+
+9. Which method returns a list of all the keys in a dictionary?
+a) keys()
+b) get_keys()
+c) all_keys()
+d) dict_keys()
+
+10. What is the output of the following code?
+
+my_dict = {"apple": 3, "banana": 2, "orange": 5}
+print(list(my_dict.values()))
+
+a) ["apple", "banana", "orange"]
+b) [3, 2, 5]
+c) ["apple": 3, "banana": 2, "orange": 5]
+d) TypeError
+
+
+Correct answers: 
+1 - b) empty_dict = dict() ✓
+2 - a) 2 ✓
+3 - b) update() ✓
+4 - b) The number of keys in the dictionary ✓
+5 - c) pop() ✓
+6 - a) It raises a KeyError ✓
+7 - c) in operator ✓
+8 - a) 2 ✓
+9 - a) keys() ✓
+10 - b) [3, 2, 5] ✓
