@@ -37,8 +37,6 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [TEST - Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Dictionaries)
 
-➡
-
 ## Additional resources
 
 ➡ [Course page - Programming Fundamentals with Python - May 2023](https://softuni.bg/trainings/4097/programming-fundamentals-with-python-may-2023)
