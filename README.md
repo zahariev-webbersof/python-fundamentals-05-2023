@@ -22,6 +22,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
 
+➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
+
 ## Theory tests
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Basic%20syntax%2C%20conditional%20statements%20and%20loops)  
 
