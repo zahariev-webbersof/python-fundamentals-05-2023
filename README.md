@@ -18,9 +18,11 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [List advanced](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/list_advanced)
 
-➡ [Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
+➡ [Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/classes_and_objects)
 
 ➡ [Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
+
+➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
 
 ## Theory tests
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Basic%20syntax%2C%20conditional%20statements%20and%20loops)  
@@ -34,7 +36,9 @@ Online judge system - https://judge.softuni.org/ ⚖
 ➡ [TEST - Lists Advanced](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20List%20advanced)
 
 ➡ [TEST - Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Objects%20and%20Classes)
- 
+
+➡ [TEST - Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Dictionaries)
+
 ## Additional resources
 
 ➡ [Course page - Programming Fundamentals with Python - May 2023](https://softuni.bg/trainings/4097/programming-fundamentals-with-python-may-2023)
