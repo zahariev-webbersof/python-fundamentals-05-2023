@@ -43,7 +43,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ## Practical tasks
 
-➡ [Practical]()
+➡ [PyGame - Customisation Requirements](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Pygame%20Game%20Customization%20Project)
 ## Additional resources
 
 ➡ [Course page - Programming Fundamentals with Python - May 2023](https://softuni.bg/trainings/4097/programming-fundamentals-with-python-may-2023)
