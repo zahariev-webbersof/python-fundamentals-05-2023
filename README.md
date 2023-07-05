@@ -24,7 +24,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
 
-## Theory tests
+## Theory Тests
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Basic%20syntax%2C%20conditional%20statements%20and%20loops)  
 
 ➡ [TEST - Data Types and Variables](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Data%20types%20and%20variables) 
@@ -41,10 +41,10 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [TEST - Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Text%20processing)
 
-## Practical tasks
+## Practical Tasks
 
 ➡ [PyGame - Customisation Requirements](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Pygame%20Game%20Customization%20Project)
-## Additional resources
+## Additional Resources
 
 ➡ [Course page - Programming Fundamentals with Python - May 2023](https://softuni.bg/trainings/4097/programming-fundamentals-with-python-may-2023)
 
