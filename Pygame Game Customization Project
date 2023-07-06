@@ -1,0 +1,28 @@
+Technical requirements for changing game logic
+
+1. Changing Images:
+   - Replace the "player.png" and "item.png" files with other image files. The new images should be of the same format (e.g., PNG) and have appropriate sizes.
+   - Ensure that the new image files are in the same directory as the Python script.
+   - Update the corresponding file names in the code where the images are loaded (e.g., `player_image = pygame.image.load("player.png")`).
+
+2. Modifying Player Score:
+   - Customize the way the player's score is displayed on the screen.
+   - Modify the font style, size, color, or position of the score text by adjusting the relevant parameters in the code.
+   - You can experiment with different ways of calculating and updating the player's score based on their desired game mechanics.
+
+3. Changing Frame Size:
+   -Change the size of the game window (frame) to desired dimensions.
+   - Modify the `width` and `height` variables in the code to set the desired dimensions of the window.
+   - Make sure that the dimensions are suitable for displaying the game elements and maintaining a balanced gaming experience.
+
+4. Adding New Features:
+   - Add new features to the game. Here are some suggestions:
+     - Power-ups: Introduce special items that grant the player temporary abilities or advantages.
+     - Obstacles: Add obstacles that the player must avoid to survive.
+     - Levels: Implement multiple levels with increasing difficulty, each with its own unique challenges or items.
+     - Sound Effects and Music: Incorporate audio elements to enhance the gaming experience.
+   - Provide guidance and assistance as needed, and encourage creativity in implementing new features.
+
+5. Testing and Debugging:
+   - You must test mods and new features to make sure they function properly.
+   - You mus debug any issues that may arise and to use appropriate debugging techniques, such as print statements or debugging tools provided by integrated development environment (IDE).

@@ -1,6 +1,6 @@
 1. How do you create an empty dictionary in Python?
 a) empty_dict = {}
-b) empty_dict = dict()
+b) empty_dict = () # Тук подточката е коригирана от dict() към ()
 c) empty_dict = []
 d) empty_dict = set()
 
@@ -72,7 +72,7 @@ d) TypeError
 
 
 Correct answers: 
-1 - b) empty_dict = dict() ✓
+1 - b) empty_dict = {} ✓ # Коригиран отговор 
 2 - a) 2 ✓
 3 - b) update() ✓
 4 - b) The number of keys in the dictionary ✓
