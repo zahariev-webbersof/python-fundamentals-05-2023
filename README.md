@@ -43,7 +43,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [TEST - Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Text%20processing)
 
-➡ [TEST - Regular Expressions](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Regular%20Expression))
+➡ [TEST - Regular Expressions](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Regular%20Expression)
 
 ## Practical Tasks
 
