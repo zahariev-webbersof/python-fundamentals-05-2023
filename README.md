@@ -26,7 +26,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Regular Expressions](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/tree/main/regular_expressions)
 
-➡ [Exam preparation]
+➡ [Exam preparation](https://github.com/zahariev-webbersof/python-fundamentals-05-2023)
 
 ## Theory Тests
 ➡ [TEST - basic syntax](https://github.com/zahariev-webbersof/python-fundamentals-05-2023/blob/main/Test%20-%20Basic%20syntax%2C%20conditional%20statements%20and%20loops)  
