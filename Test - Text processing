@@ -73,6 +73,7 @@ b) beginswith()
 c) start()
 d) prefix()
 
+
 Correct answers:
 1 - b) Using triple quotes: """Hello\nWorld"""
 2 - d) len()
